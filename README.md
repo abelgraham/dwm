@@ -1,3 +1,0 @@
-# dwm
-
-dynamic window manager
